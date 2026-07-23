@@ -18,7 +18,7 @@ target 'MHAdSDKDemo' do
   pod 'ToBid-iOS'
 
   # 本地适配器
-  pod 'MHAdSDK-ToBidAdapter', '~> 1.0.0'
+  pod 'MHAdSDK-ToBidAdapter', '~> 1.0.1'
 
 end
 

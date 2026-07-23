@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'MHAdSDK-ToBidAdapter'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'ToBid (WindMill) custom adapter for MHAdSDK.'
   s.description  = <<-DESC
     MHAdSDK-ToBidAdapter 是 MHAdSDK 的 ToBid 聚合平台自定义适配器，
@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.static_framework = true
 
-  s.source_files = '**/*.{h,m}'
-  s.public_header_files = '**/*.h'
+  s.source_files = 'MHAdSDK-ToBidAdapter/**/*.{h,m}'
+  s.public_header_files = 'MHAdSDK-ToBidAdapter/**/*.h'
 
   s.dependency 'MHAdSDK', '~> 1.4.5'
   s.dependency 'ToBid-iOS'
