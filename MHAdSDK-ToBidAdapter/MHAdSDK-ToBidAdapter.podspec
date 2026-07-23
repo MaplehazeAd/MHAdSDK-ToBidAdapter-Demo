@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => 'https://github.com/MaplehazeAd/MHAdSDK-ToBidAdapter-Demo.git', :tag => s.version.to_s }
 
-  s.platform     = :ios, '11.0'
+  s.platform     = :ios, '12.0'
   s.requires_arc = true
   s.static_framework = true
 
