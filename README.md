@@ -1,2 +1,2 @@
-# MHAdSDK-ToBidAdapter-Demo
-MHAdSDK-ToBidAdapter
+MHAdSDK 接入文档请参考
+

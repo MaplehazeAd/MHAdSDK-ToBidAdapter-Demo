@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>taobao</string>
+		<string>openapp.jdmobile</string>
+		<string>snssdk1128</string>
+		<string>kwai</string>
+		<string>pinduoduo</string>
+		<string>imeituan</string>
+		<string>rail12306</string>
+		<string>alipay</string>
+		<string>ksnebula</string>
+		<string>snssdk2329</string>
+		<string>ctrip</string>
+		<string>qunariphone</string>
+		<string>iosamap</string>
+		<string>didi</string>
+		<string>tmall</string>
+		<string>ucbrowser</string>
+		<string>vipshop</string>
+		<string>xhsdiscover</string>
+		<string>eleme</string>
+		<string>imeituanwaimai</string>
+		<string>weixin</string>
+		<string>mqq</string>
+		<string>sinaweibo</string>
+		<string>dingtalk</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+</dict>
+</plist>
