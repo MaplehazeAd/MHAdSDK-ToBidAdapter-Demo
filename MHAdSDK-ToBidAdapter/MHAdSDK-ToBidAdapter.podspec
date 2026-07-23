@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '11.0'
   s.requires_arc = true
+  s.static_framework = true
 
   s.source_files = '**/*.{h,m}'
   s.public_header_files = '**/*.h'
